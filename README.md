@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @evidenciasponao
+- 👋 Hi, I’m Anderson Montenegro
 - 👀 I’m interested in software developer
-- 🌱 I’m currently learning about react
+- 🌱 I’m currently learning about software developer
 - 💞️ I’m looking to collaborate on small or big proyects
 - 📫 How to reach me evidenciasponao@gmail.com
 
