@@ -50,6 +50,7 @@ My goal is simple:
 ## 🎧 NEØRAVE WEB
 
 ### Electronic Music Artist Platform
+<img width="1881" height="879" alt="image" src="https://github.com/user-attachments/assets/8cda0f19-67dd-4491-a6ee-59c5cb626c93" />
 
 A complete digital platform created for the NEØRAVE project, focused on artist branding, music promotion, event visibility and community engagement.
 
@@ -70,6 +71,7 @@ A complete digital platform created for the NEØRAVE project, focused on artist 
 ## 💼 ADN DEV
 
 ### Professional Developer Portfolio
+<img width="1883" height="893" alt="image" src="https://github.com/user-attachments/assets/e86ce049-f3a9-4fbe-a62b-9c3206cf6878" />
 
 A modern portfolio built to showcase projects, technologies, and development experience.
 
@@ -89,6 +91,7 @@ A modern portfolio built to showcase projects, technologies, and development exp
 ## 🤘 BLØØD FL
 
 ### Death Metal Band & Merchandise Platform
+<img width="1885" height="879" alt="image" src="https://github.com/user-attachments/assets/d93d4263-5249-4d86-8892-2f577260d664" />
 
 Official website for BLØØD FL featuring band information, visual identity, discography and e-commerce structure.
 
@@ -108,6 +111,7 @@ Official website for BLØØD FL featuring band information, visual identity, dis
 ## 🧵 APOLO MANILLAS
 
 ### Handmade Bracelet E-Commerce
+<img width="1887" height="881" alt="image" src="https://github.com/user-attachments/assets/8d02398f-c55c-4217-8edf-d2299560566f" />
 
 An e-commerce platform designed to showcase handcrafted products through a modern and responsive shopping experience.
 
