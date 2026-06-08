@@ -18,7 +18,7 @@
 
 <br>
 
-[🌐 Portfolio]((https://www.adn-dev.cloud/)) •
+[🌐 Portfolio](https://www.adn-dev.cloud/) •
 [🎧 NEØRAVE](https://www.neorave-web.shop) •
 [🤘 BLØØD FL](https://www.blood-fl.shop) •
 [🧵 APOLO MANILLAS](https://www.apolo-manillas.shop)•
