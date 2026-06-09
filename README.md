@@ -182,7 +182,7 @@ Figma                 Postman
 
 ## 📫 CONTACT
 
-📧 anderson.montenegro.dev@gmail.com  
+📧 aamontengrome@gmail.com  
 🌐 Portfolio — https://www.adn-dev.shop  
 💼 Open to remote opportunities
 
