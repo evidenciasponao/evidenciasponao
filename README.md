@@ -167,6 +167,7 @@ Figma                 Postman
 | BLØØD FL       | Band + E-commerce | 🟢 Live |
 | APOLO MANILLAS | E-Commerce   | 🟢 Live  |
 | .NET Core API  | Backend project | 🔵 In progress |
+| BloodFL API | REST API .NET 10 + JWT | 🟢 Live |
 
 ---
 
