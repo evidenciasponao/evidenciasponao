@@ -2,219 +2,189 @@
 
 # ⚡ ANDERSON MONTENEGRO
 
-### Angular Developer • Frontend Engineer • Digital Product Builder
+### Full Stack Developer • Angular • .NET Core • Cloud
 
 <br>
 
 <img src="https://img.shields.io/badge/Angular-21-DD0031?style=for-the-badge&logo=angular" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap" />
+<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet" />
 <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
 <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
 
 <br><br>
 
-### Building modern web applications from concept to production
+### 4+ years building production web applications • Open to Remote
 
 <br>
 
 [🌐 PORTFOLIO](https://www.adn-dev.cloud/) •
 [🎧 NEØRAVE](https://www.neorave-web.shop) •
 [🤘 BLØØD FL](https://www.blood-fl.shop) •
-[🧵 APOLO MANILLAS](https://www.apolo-manillas.shop)•
+[🧵 APOLO MANILLAS](https://www.apolo-manillas.shop)
 
 </div>
 
 ---
 
-# 👨‍💻 WHO I AM
+## 👨‍💻 WHO I AM
 
-I'm a Frontend Developer specialized in Angular and modern web technologies.
+Full Stack Developer with 4+ years of experience building and deploying production-ready web applications using **Angular** and **.NET Core**.
 
-I focus on creating production-ready digital products that combine:
+I focus on delivering complete digital products that combine:
 
-* Clean Architecture
-* Responsive Design
-* User Experience
-* Cloud Deployment
-* Business-Oriented Solutions
+- Clean Architecture & scalable code
+- Responsive, mobile-first design
+- REST API development with .NET Core
+- Azure cloud deployment with CI/CD pipelines
+- Business-oriented and e-commerce solutions
 
-My goal is simple:
-
-> Transform ideas into scalable digital products.
+> **Currently expanding backend expertise with .NET Core — building REST APIs, Entity Framework, and SQL Server integrations.**
 
 ---
 
-# 🚀 PRODUCTION PROJECTS
+## 🚀 PRODUCTION PROJECTS
 
 ## 🎧 NEØRAVE WEB
-
 ### Electronic Music Artist Platform
+
 <img width="1881" height="879" alt="image" src="https://github.com/user-attachments/assets/8cda0f19-67dd-4491-a6ee-59c5cb626c93" />
 
-A complete digital platform created for the NEØRAVE project, focused on artist branding, music promotion, event visibility and community engagement.
+Complete digital platform for artist branding, music promotion and event booking.
 
-**Highlights**
-
-* Angular SPA Architecture
-* Responsive UI
-* Music Showcase
-* Event Promotion
-* Contact & Booking
-* Azure Deployment
-* GitHub Actions CI/CD
+**Tech & Highlights**
+- Angular SPA Architecture
+- Responsive UI — mobile & desktop
+- Event promotion & booking system
+- Azure Static Web Apps deployment
+- GitHub Actions CI/CD pipeline
 
 🌐 https://www.neorave-web.shop
 
 ---
 
 ## 💼 ADN DEV
-
 ### Professional Developer Portfolio
+
 <img width="1883" height="893" alt="image" src="https://github.com/user-attachments/assets/e86ce049-f3a9-4fbe-a62b-9c3206cf6878" />
 
-A modern portfolio built to showcase projects, technologies, and development experience.
+Modern portfolio showcasing projects, tech stack and development experience.
 
-**Highlights**
-
-* Responsive Design
-* Project Showcase
-* Modern UI Components
-* Angular Architecture
-* Performance Optimization
-* Azure Static Web Apps
+**Tech & Highlights**
+- Angular architecture with lazy loading
+- Performance-optimized build
+- Azure Static Web Apps
+- 100% responsive design
 
 🌐 https://www.adn-dev.shop
 
 ---
 
 ## 🤘 BLØØD FL
+### Band & Merchandise Platform
 
-### Death Metal Band & Merchandise Platform
 <img width="1885" height="879" alt="image" src="https://github.com/user-attachments/assets/d93d4263-5249-4d86-8892-2f577260d664" />
 
-Official website for BLØØD FL featuring band information, visual identity, discography and e-commerce structure.
+Official website with band identity, discography and merchandise catalog.
 
-**Highlights**
-
-* Band Branding
-* Discography Section
-* Merchandise Catalog
-* Responsive Experience
-* Angular Components
-* Azure Deployment
+**Tech & Highlights**
+- E-commerce product structure
+- Angular component architecture
+- Custom branding & visual identity
+- Azure deployment
 
 🌐 https://www.blood-fl.shop
 
 ---
 
 ## 🧵 APOLO MANILLAS
+### Handmade E-Commerce Platform
 
-### Handmade Bracelet E-Commerce
 <img width="1887" height="881" alt="image" src="https://github.com/user-attachments/assets/8d02398f-c55c-4217-8edf-d2299560566f" />
 
-An e-commerce platform designed to showcase handcrafted products through a modern and responsive shopping experience.
+E-commerce platform for handcrafted products with a modern shopping experience.
 
-**Highlights**
-
-* Product Catalog
-* E-Commerce Structure
-* Mobile-First Design
-* Responsive Layout
-* Angular Frontend
-* Cloud Deployment
+**Tech & Highlights**
+- Product catalog with Angular
+- Mobile-first responsive design
+- Cloud deployment
+- Optimized UX for conversions
 
 🌐 https://www.apolo-manillas.shop
 
 ---
 
-# 🛠 TECH STACK
+## 🛠 TECH STACK
 
 ### Frontend
+```
+Angular 21     TypeScript     JavaScript
+HTML5          CSS3 / SCSS    Bootstrap
+RxJS           Angular CLI    REST consumption
+```
 
-```text
-Angular
-TypeScript
-JavaScript
-HTML5
-CSS3
-SCSS
-Bootstrap
+### Backend *(expanding)*
+```
+.NET Core      C#             Entity Framework
+REST APIs      SQL Server     Authentication (JWT)
 ```
 
 ### Cloud & DevOps
-
-```text
-Azure Static Web Apps
-GitHub Actions
-CI/CD Pipelines
-Git
-GitHub
+```
+Azure Static Web Apps    GitHub Actions    CI/CD Pipelines
+Git / GitHub             Azure Portal
 ```
 
-### Development Tools
-
-```text
-Visual Studio Code
-Azure Portal
-Chrome DevTools
-Figma
+### Tools
+```
+Visual Studio Code    Visual Studio    Chrome DevTools
+Figma                 Postman
 ```
 
 ---
 
-# 📊 WHAT I DELIVER
+## 📊 WHAT I DELIVER
 
-✅ Production-Ready Applications
-
-✅ Responsive Web Development
-
-✅ Angular Frontend Architecture
-
-✅ Component-Based Design
-
-✅ Azure Cloud Deployment
-
-✅ Continuous Integration & Delivery
-
-✅ Business & E-Commerce Solutions
+| Capability | Details |
+|---|---|
+| ✅ Production Applications | 4 live apps deployed on Azure |
+| ✅ Angular Frontend | SPA, components, services, routing |
+| ✅ REST API Integration | HTTP client, auth, interceptors |
+| ✅ .NET Core Backend | APIs, EF Core, SQL Server *(in progress)* |
+| ✅ Cloud Deployment | Azure + GitHub Actions CI/CD |
+| ✅ E-Commerce Solutions | Catalog, UX, business logic |
+| ✅ Responsive Design | Mobile-first, cross-browser |
 
 ---
 
-# 🎯 CURRENT FOCUS
+## 📈 PROJECT STATUS
 
-* Advanced Angular Development
-* Frontend Engineering
-* Scalable UI Systems
-* Web Performance
-* Accessibility
-* Cloud Architecture
-
----
-
-# 📈 PROJECT STATUS
-
-| Project        | Status  |
-| -------------- | ------- |
-| NEØRAVE WEB    | 🟢 Live |
-| ADN DEV        | 🟢 Live |
-| BLØØD FL       | 🟢 Live |
-| APOLO MANILLAS | 🟢 Live |
+| Project        | Type         | Status   |
+|----------------|--------------|----------|
+| NEØRAVE WEB    | Artist Platform | 🟢 Live |
+| ADN DEV        | Portfolio    | 🟢 Live  |
+| BLØØD FL       | Band + E-commerce | 🟢 Live |
+| APOLO MANILLAS | E-Commerce   | 🟢 Live  |
+| .NET Core API  | Backend project | 🔵 In progress |
 
 ---
 
-# 📫 CONTACT
+## 🎯 CURRENT FOCUS
 
-📧 [evidenciasponao@gmail.com](mailto:evidenciasponao@gmail.com)
+- .NET Core REST API development
+- Entity Framework Core + SQL Server
+- Clean Architecture patterns (Repository, CQRS)
+- JWT Authentication & Authorization
+- Full Stack integration: Angular + .NET Core
 
-🌐 Portfolio
-https://www.adn-dev.shop
+---
 
-🎧 NEØRAVE
-https://www.neorave-web.shop
+## 📫 CONTACT
 
-☕ Support My Work
-https://ko-fi.com/neorave
+📧 anderson.montenegro.dev@gmail.com  
+🌐 Portfolio — https://www.adn-dev.shop  
+💼 Open to remote opportunities
 
 ---
 
@@ -222,12 +192,12 @@ https://ko-fi.com/neorave
 
 ## ⚡ Philosophy
 
-### "Code is not only functionality. It is identity, experience and impact."
+### *"Code is not only functionality. It is identity, experience and impact."*
 
 <br>
 
-⭐ Building products.
-⭐ Solving problems.
-⭐ Creating experiences.
+⭐ 4+ years building production products  
+⭐ Angular specialist expanding to Full Stack  
+⭐ Open to remote — available now
 
 </div>
