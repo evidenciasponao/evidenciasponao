@@ -170,6 +170,21 @@ Figma                 Postman
 | BloodFL API | REST API .NET 10 + JWT | 🟢 Live |
 
 ---
+## ⚙️ BLOODFL API
+
+### REST API — .NET 10 + JWT Authentication
+
+Backend REST API for the BloodFL band & merchandise platform.
+
+**Tech & Highlights**
+- .NET 10 Web API — Clean Architecture
+- Entity Framework Core + SQL Server
+- JWT Authentication with BCrypt password hashing
+- Protected endpoints with role-based authorization
+- CORS configured for Angular frontend integration
+
+🔗 https://github.com/evidenciasponao/bloodfl-api
+
 
 ## 🎯 CURRENT FOCUS
 
