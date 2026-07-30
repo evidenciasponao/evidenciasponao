@@ -2,220 +2,350 @@
 
 # ⚡ ANDERSON MONTENEGRO
 
-### Full Stack Developer • Angular • .NET Core • Cloud
+### Full Stack .NET Developer
+
+#### Angular • ASP.NET Core • Clean Architecture • Azure
 
 <br>
 
 <img src="https://img.shields.io/badge/Angular-21-DD0031?style=for-the-badge&logo=angular" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript" />
-<img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet" />
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions" />
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/.NET_10-512BD4?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp" />
+<img src="https://img.shields.io/badge/Entity_Framework-68217A?style=for-the-badge&logo=dotnet" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql" />
 <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker" />
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions" />
 
 <br><br>
 
-### 4+ years building production web applications • Open to Remote
+## 🚀 Production Ready
+
+**6 Production Projects** • **2 REST APIs** • **Azure Cloud** • **CI/CD Pipelines**
 
 <br>
 
-[🌐 PORTFOLIO](https://www.adn-dev.cloud/) •
+[🌐 Portfolio](https://www.adn-dev.shop) •
 [🎧 NEØRAVE](https://www.neorave-web.shop) •
 [🤘 BLØØD FL](https://www.blood-fl.shop) •
-[🧵 APOLO MANILLAS](https://www.apolo-manillas.shop)
+[🧵 APOLO](https://www.apolo-manillas.shop)
 
 </div>
 
 ---
 
-## 👨‍💻 WHO I AM
+# 👨‍💻 ABOUT ME
 
-Full Stack Developer with 4+ years of experience building and deploying production-ready web applications using **Angular** and **.NET Core**.
+I'm a **Full Stack .NET Developer** focused on building scalable web applications using **Angular** and **ASP.NET Core**.
 
-I focus on delivering complete digital products that combine:
+I enjoy designing clean architectures, developing robust REST APIs and delivering complete products from frontend to cloud deployment.
 
-- Clean Architecture & scalable code
-- Responsive, mobile-first design
-- REST API development with .NET Core
-- Azure cloud deployment with CI/CD pipelines
-- Business-oriented and e-commerce solutions
+During the last few years I've built production-ready applications, e-commerce platforms, business websites and backend services following modern software engineering practices.
 
-> **Currently expanding backend expertise with .NET Core — building REST APIs, Entity Framework, and SQL Server integrations.**
+My current focus is enterprise backend development with **Clean Architecture**, **CQRS**, **Entity Framework Core**, **PostgreSQL**, **SQL Server**, **Docker** and **JWT Authentication**.
 
 ---
 
-## 🚀 PRODUCTION PROJECTS
+# 🛠 TECH STACK
 
-## 🎧 NEØRAVE WEB
+## Frontend
+
+```text
+Angular 21
+TypeScript
+JavaScript
+RxJS
+HTML5
+SCSS
+Bootstrap
+Responsive Design
+REST API Integration
+```
+
+## Backend
+
+```text
+ASP.NET Core
+.NET 10
+C#
+Entity Framework Core
+LINQ
+JWT Authentication
+BCrypt
+REST APIs
+SQL Server
+PostgreSQL
+Clean Architecture
+Repository Pattern
+CQRS
+Dependency Injection
+```
+
+## Cloud & DevOps
+
+```text
+Azure
+Azure Static Web Apps
+GitHub Actions
+CI/CD
+Docker
+Git
+GitHub
+```
+
+## Tools
+
+```text
+Visual Studio
+Visual Studio Code
+Postman
+Swagger
+Figma
+Chrome DevTools
+```
+
+---
+
+# 🏗 SOFTWARE ARCHITECTURE
+
+✔ Clean Architecture
+
+✔ SOLID Principles
+
+✔ Repository Pattern
+
+✔ CQRS
+
+✔ Dependency Injection
+
+✔ RESTful API Design
+
+✔ Entity Framework Core
+
+✔ JWT Authentication
+
+✔ CI/CD Pipelines
+
+✔ Azure Cloud Deployment
+
+---
+
+# 🚀 FEATURED BACKEND PROJECTS
+
+# ⚙️ BloodFL API
+
+### REST API — .NET 10
+
+Backend powering the BloodFL platform.
+
+### Technologies
+
+- ASP.NET Core 10
+- Entity Framework Core
+- SQL Server
+- JWT Authentication
+- BCrypt Password Hashing
+- Role-Based Authorization
+- Swagger
+- Clean Architecture
+- Dependency Injection
+
+🔗 Repository
+
+https://github.com/evidenciasponao/bloodfl-api
+
+---
+
+# 📂 NeoArchiveAI
+
+### Enterprise Document Management API
+
+Currently under active development.
+
+### Technologies
+
+- ASP.NET Core 10
+- PostgreSQL
+- Entity Framework Core
+- Clean Architecture
+- CQRS
+- Repository Pattern
+- Docker
+- REST API
+- Dependency Injection
+
+### Current Features
+
+- Document Management
+- Categories
+- Authentication
+- File Storage
+- Enterprise Architecture
+
+🚧 In Progress
+
+---
+
+# 🌐 PRODUCTION WEB APPLICATIONS
+
+# 🎧 NEØRAVE
+
 ### Electronic Music Artist Platform
 
 <img width="1881" height="879" alt="image" src="https://github.com/user-attachments/assets/8cda0f19-67dd-4491-a6ee-59c5cb626c93" />
 
-Complete digital platform for artist branding, music promotion and event booking.
+### Highlights
 
-**Tech & Highlights**
-- Angular SPA Architecture
-- Responsive UI — mobile & desktop
-- Event promotion & booking system
-- Azure Static Web Apps deployment
-- GitHub Actions CI/CD pipeline
+- Angular 21
+- Azure Static Web Apps
+- GitHub Actions
+- Responsive Design
+- Event Promotion Platform
 
 🌐 https://www.neorave-web.shop
 
 ---
 
-## 💼 ADN DEV
+# 💼 ADN DEV
+
 ### Professional Developer Portfolio
 
 <img width="1883" height="893" alt="image" src="https://github.com/user-attachments/assets/e86ce049-f3a9-4fbe-a62b-9c3206cf6878" />
 
-Modern portfolio showcasing projects, tech stack and development experience.
+### Highlights
 
-**Tech & Highlights**
-- Angular architecture with lazy loading
-- Performance-optimized build
-- Azure Static Web Apps
-- 100% responsive design
+- Angular Architecture
+- Lazy Loading
+- Performance Optimized
+- Azure Deployment
+- Responsive Design
 
 🌐 https://www.adn-dev.shop
 
 ---
 
-## 🤘 BLØØD FL
-### Band & Merchandise Platform
+# 🤘 BLØØD FL
+
+### Official Band Platform
 
 <img width="1853" height="887" alt="image" src="https://github.com/user-attachments/assets/15a8f625-0361-404d-85c5-37150abba066" />
 
+### Highlights
 
-Official website with band identity, discography and merchandise catalog.
-
-**Tech & Highlights**
-- E-commerce product structure
-- Angular component architecture
-- Custom branding & visual identity
-- Azure deployment
+- Angular Application
+- Merchandise Catalog
+- Responsive Design
+- Azure Deployment
+- Modern UI
 
 🌐 https://www.blood-fl.shop
 
 ---
 
-## 🧵 APOLO MANILLAS
-### Handmade E-Commerce Platform
+# 🧵 APOLO MANILLAS
+
+### Handmade E-Commerce
 
 <img width="1849" height="883" alt="image" src="https://github.com/user-attachments/assets/38be371f-de32-4647-a732-4aba7135cb21" />
 
+### Highlights
 
-E-commerce platform for handcrafted products with a modern shopping experience.
-
-**Tech & Highlights**
-- Product catalog with Angular
-- Mobile-first responsive design
-- Cloud deployment
-- Optimized UX for conversions
+- Angular SPA
+- Product Catalog
+- Mobile First
+- Cloud Deployment
+- Optimized User Experience
 
 🌐 https://www.apolo-manillas.shop
 
 ---
 
-## 🛠 TECH STACK
+# 📊 EXPERIENCE
 
-### Frontend
-```
-Angular 21     TypeScript     JavaScript
-HTML5          CSS3 / SCSS    Bootstrap
-RxJS           Angular CLI    REST consumption
-```
-
-### Backend *(expanding)*
-```
-.NET Core      C#             Entity Framework
-REST APIs      SQL Server     Authentication (JWT)
-```
-
-### Cloud & DevOps
-```
-Azure Static Web Apps    GitHub Actions    CI/CD Pipelines
-Git / GitHub             Azure Portal
-```
-
-### Tools
-```
-Visual Studio Code    Visual Studio    Chrome DevTools
-Figma                 Postman
-```
+| Area | Technologies |
+|------|--------------|
+| Frontend | Angular, TypeScript, RxJS |
+| Backend | ASP.NET Core, .NET 10, C# |
+| Databases | SQL Server, PostgreSQL |
+| ORM | Entity Framework Core |
+| Authentication | JWT, BCrypt |
+| Architecture | Clean Architecture, CQRS |
+| Cloud | Azure Static Web Apps |
+| DevOps | GitHub Actions, Docker |
+| Version Control | Git, GitHub |
 
 ---
 
-## 📊 WHAT I DELIVER
+# 📈 PROJECT STATUS
 
-| Capability | Details |
-|---|---|
-| ✅ Production Applications | 4 live apps deployed on Azure |
-| ✅ Angular Frontend | SPA, components, services, routing |
-| ✅ REST API Integration | HTTP client, auth, interceptors |
-| ✅ .NET Core Backend | APIs, EF Core, SQL Server *(in progress)* |
-| ✅ Cloud Deployment | Azure + GitHub Actions CI/CD |
-| ✅ E-Commerce Solutions | Catalog, UX, business logic |
-| ✅ Responsive Design | Mobile-first, cross-browser |
-
----
-
-## 📈 PROJECT STATUS
-
-| Project        | Type         | Status   |
-|----------------|--------------|----------|
-| NEØRAVE WEB    | Artist Platform | 🟢 Live |
-| ADN DEV        | Portfolio    | 🟢 Live  |
-| BLØØD FL       | Band + E-commerce | 🟢 Live |
-| APOLO MANILLAS | E-Commerce   | 🟢 Live  |
-| .NET Core API  | Backend project | 🔵 In progress |
-| BloodFL API | REST API .NET 10 + JWT | 🟢 Live |
-
----
-## ⚙️ BLOODFL API
-
-### REST API — .NET 10 + JWT Authentication
-
-Backend REST API for the BloodFL band & merchandise platform.
-
-**Tech & Highlights**
-- .NET 10 Web API — Clean Architecture
-- Entity Framework Core + SQL Server
-- JWT Authentication with BCrypt password hashing
-- Protected endpoints with role-based authorization
-- CORS configured for Angular frontend integration
-
-🔗 https://github.com/evidenciasponao/bloodfl-api
-
-
-## 🎯 CURRENT FOCUS
-
-- .NET Core REST API development
-- Entity Framework Core + SQL Server
-- Clean Architecture patterns (Repository, CQRS)
-- JWT Authentication & Authorization
-- Full Stack integration: Angular + .NET Core
+| Project | Type | Status |
+|---------|------|--------|
+| 🎧 NEØRAVE | Production | 🟢 Live |
+| 💼 ADN DEV | Production | 🟢 Live |
+| 🤘 BLØØD FL | Production | 🟢 Live |
+| 🧵 APOLO MANILLAS | Production | 🟢 Live |
+| ⚙️ BloodFL API | REST API | 🟢 Live |
+| 📂 NeoArchiveAI | Enterprise API | 🔵 In Progress |
 
 ---
 
-## 📫 CONTACT
+# 🎯 CURRENT FOCUS
 
-📧 aamontengrome@gmail.com  
-🌐 Portfolio — https://www.adn-dev.shop  
-💼 Open to remote opportunities
+Currently building enterprise applications with:
+
+- ASP.NET Core
+- .NET 10
+- Entity Framework Core
+- PostgreSQL
+- SQL Server
+- Clean Architecture
+- CQRS
+- Docker
+- JWT Authentication
+- Azure Cloud
+
+---
+
+# 📫 CONTACT
+
+📧 **aamontengrome@gmail.com**
+
+🌐 **Portfolio**
+
+https://www.adn-dev.shop
+
+💼 **Open to Remote Opportunities**
 
 ---
 
 <div align="center">
 
-## ⚡ Philosophy
+# 📈 GitHub
 
-### *"Code is not only functionality. It is identity, experience and impact."*
+<!-- GitHub Stats -->
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=evidenciasponao&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=evidenciasponao&layout=compact&theme=tokyonight)
+
+---
+
+# ⚡ PHILOSOPHY
+
+### *"Building software that is scalable, maintainable and ready for production."*
 
 <br>
 
-⭐ 4+ years building production products  
-⭐ Angular specialist expanding to Full Stack  
-⭐ Open to remote — available now
+⭐ Full Stack .NET Developer
+
+⭐ Angular + ASP.NET Core
+
+⭐ Clean Architecture
+
+⭐ Cloud Solutions
+
+⭐ Open to Remote Opportunities
 
 </div>
