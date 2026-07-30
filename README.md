@@ -84,7 +84,8 @@ Modern portfolio showcasing projects, tech stack and development experience.
 ## 🤘 BLØØD FL
 ### Band & Merchandise Platform
 
-<img width="1885" height="879" alt="image" src="https://github.com/user-attachments/assets/d93d4263-5249-4d86-8892-2f577260d664" />
+<img width="1853" height="887" alt="image" src="https://github.com/user-attachments/assets/15a8f625-0361-404d-85c5-37150abba066" />
+
 
 Official website with band identity, discography and merchandise catalog.
 
@@ -101,7 +102,8 @@ Official website with band identity, discography and merchandise catalog.
 ## 🧵 APOLO MANILLAS
 ### Handmade E-Commerce Platform
 
-<img width="1887" height="881" alt="image" src="https://github.com/user-attachments/assets/8d02398f-c55c-4217-8edf-d2299560566f" />
+<img width="1849" height="883" alt="image" src="https://github.com/user-attachments/assets/38be371f-de32-4647-a732-4aba7135cb21" />
+
 
 E-commerce platform for handcrafted products with a modern shopping experience.
 
